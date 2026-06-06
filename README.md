@@ -67,3 +67,9 @@ As part of the engineering team, I architected and implemented the core backend 
 
 ### ⚙️ Admin Management Console
 <img width="1847" height="972" alt="Admin" src="https://github.com/user-attachments/assets/6b68bace-e412-462a-9ca6-fc5a5b4acdad" />
+
+---
+
+## 👨‍💻 Author
+**Anas Amjad Aburshaid**  
+[LinkedIn](https://www.linkedin.com/in/anas-aburshaid-950192367/) | [GitHub](https://github.com/AnasAburshaid)
